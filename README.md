@@ -1,2 +1,2 @@
 # CHEAT
-The official repository of the AAAI2023 paper StyleTalk: One-shot Talking Head Generation with Controllable Speaking Styles
+The official repository of the paper CHEAT: A Large-scale Dataset for Detecting CHatGPT-writtEn AbsTracts
