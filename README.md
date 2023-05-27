@@ -5,15 +5,3 @@ The powerful ability of ChatGPT has caused widespread concern in the academic co
 
 ## Dataset
 In the data directory there are the files ieee-{init, generation, polish, fusion}.{jsonl, xlsx}. These contain the original (human) input in the init files, the first pass generation by ChatGPT in generation, the ChatGPT refactored versions in polish, and the human/ChatGPT hybrids in fusion.
-
-<!-- # Citation
-If you find this work helpful, please cite:
-
-@misc{yu2023cheat,
-      title={CHEAT: A Large-scale Dataset for Detecting ChatGPT-writtEn AbsTracts}, 
-      author={Peipeng Yu and Jiahan Chen and Xuan Feng and Zhihua Xia},
-      year={2023},
-      eprint={2304.12008},
-      archivePrefix={arXiv},
-      primaryClass={cs.CL}
-} -->
